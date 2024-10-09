@@ -13,7 +13,6 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "condense-whitespace": "^2.0.0",
-    "deep-freeze-node": "^1.1.3",
     "default-user-agent": "^1.0.0",
     "errno": "^1.0.0",
     "gauge": "^3.0.0",
@@ -36,13 +35,13 @@
     "parse-srcset": "^1.0.2",
     "parse5": "^6.0.1",
     "parse5-parser-stream": "^6.0.1",
-    "robot-directives": "github:stevenvachon/robot-directives",
+    "robot-directives": "github:jgerigmeyer/robot-directives",
     "robots-txt-guard": "^1.0.2",
     "robots-txt-parse": "^2.0.1",
     "strip-ansi": "^6.0.0",
     "supports-semigraphics": "^1.0.1",
-    "url-relation": "github:stevenvachon/url-relation",
-    "urlcache": "github:stevenvachon/urlcache",
+    "url-relation": "github:jgerigmeyer/url-relation",
+    "urlcache": "github:jgerigmeyer/urlcache",
     "walk-parse5": "^2.0.0"
   },
   "devDependencies": {

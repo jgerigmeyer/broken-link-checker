@@ -1,5 +1,5 @@
 import appDefaultOptions from "../../lib/internal/defaultOptions";
-import deepFreeze from "deep-freeze-node";
+import deepFreeze from "../../lib/internal/deepFreeze";
 import parseOptions from "../../lib/internal/parseOptions";
 
 
